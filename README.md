@@ -4,7 +4,7 @@
 Основной кейс: [Make the grade](https://nealford.com/katas/kata?id=MakeTheGrade)
 
 ## Домашние задания
-- [ADR](/sa-otus-course/tasks/adr.md)
+- [ADR](/tasks/adr.md)
 ## 
 
 - [Software Architecture Course](#software-architecture-course)

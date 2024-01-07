@@ -5,6 +5,7 @@
 
 ## Домашние задания
 - [ADR](/tasks/adr.md)
+- [Функциональная декомпозиция](/tasks/functional-decomposition.md)
 ## 
 
 - [Software Architecture Course](#software-architecture-course)
